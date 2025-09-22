@@ -1,17 +1,30 @@
-###
+# 👋 Olá, eu sou o Anderson Morallz
 
-<div align="left">
-<h1>👋 Olá, eu sou o Anderson</h1>
-<p style="margin:2px 0;">💻 Estudante de <strong>C# & .NET</strong>, explorando também Unity & Godot</p>
-<p style="margin:2px 0;">🎯 Focado em Back-End .NET e desenvolvimento de jogos</p>
-<p style="margin:2px 0;">📚 Sempre aprendendo e criando projetos práticos</p>
-<p style="margin:2px 0;">⚙️ No dia a dia estudo: C# e todo o ecossistema .NET</p>
-<p style="margin:2px 0;">🌱 Atualmente mergulhando em: lógica, POO e fundamentos de jogos</p>
-<p style="margin:2px 0;">🚀 Objetivo: evoluir para projetos reais, apps multiplataforma e jogos</p>
-<p style="margin:2px 0;">💬 Pode falar comigo sobre: programação, games, aprendizado em tecnologia</p>
-</div>
+💻 Focado em **C# e no ecossistema .NET** para Back-End  
+🎮 Apaixonado por games, explorando **Unity** e **Godot**  
+📚 Em formação acadêmica e ampliando constantemente meus conhecimentos em tecnologia  
+🚀 Buscando aprendizado prático e experiências que contribuam para meu crescimento  
 
-###
+---
+
+## 🌱 Estou aprendendo
+- Lógica de Programação & POO  
+- **C#** (fundamentos e projetos práticos)  
+- **ASP.NET Core** & **Entity Framework Core**  
+- **SQL** e modelagem de dados  
+- **.NET MAUI** (desenvolvimento de apps multiplataforma)  
+- Fundamentos de desenvolvimento de jogos (**Unity** & **Godot**)  
+
+---
+
+## 🛠️ Habilidades e tecnologias
+- Desenvolvimento **Back-End** com C# e .NET  
+- Banco de dados relacionais (SQL Server, MySQL) (Em estudo...)  
+- Criação de aplicações **multiplataforma** com .NET MAUI (Em estudo...)   
+- Noções de desenvolvimento de jogos com Unity e Godot (Em estudo...)  
+- Controle de versão com **Git & GitHub**  
+
+---
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SAVAGGE999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
