@@ -24,6 +24,15 @@
 - Noções de desenvolvimento de jogos com Unity e Godot (Em estudo...)  
 - Controle de versão com **Git & GitHub**  
 
+
+---
+
+## 🚧 Projetos em andamento
+
+- **Exercícios de Algoritmos**  
+  Resolvendo desafios de lógica de programação e POO, aplicando conceitos de C# e .NET em projetos práticos.  
+  🔗 [Acessar repositório](https://github.com/Savagge999/Desafio_100_Exercicios_Algoritmos)
+
 ---
 
 <div align="left">
