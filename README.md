@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Anderson Morallz
+# 👋 Olá, eu sou o Anderson
 
 💻 Focado em **C# e no ecossistema .NET** para Back-End  
 🎮 Apaixonado por games, explorando **Unity** e **Godot**  
