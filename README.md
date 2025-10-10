@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Anderson
+# 👋 Olá, me chamo Anderson
 
-💻 Focado em **C# e no ecossistema .NET** para Back-End  
-🎮 Apaixonado por games, explorando **Unity** e **Godot**  
+💻 Foco em **C# e ecossistema .NET** para Back-End, web, apps...  
+🎮 Apaixonado por jogos, explorando **Unity** e **Godot**  
 📚 Em formação acadêmica e ampliando constantemente meus conhecimentos em tecnologia  
 🚀 Buscando aprendizado prático e experiências que contribuam para meu crescimento  
 
@@ -18,12 +18,9 @@
 ---
 
 ## 🛠️ Habilidades e tecnologias
-- Desenvolvimento **Back-End** com C# e .NET  
-- Banco de dados relacionais (SQL Server, MySQL) (Em estudo...)  
-- Criação de aplicações **multiplataforma** com .NET MAUI (Em estudo...)   
-- Noções de desenvolvimento de jogos com Unity e Godot (Em estudo...)  
-- Controle de versão com **Git & GitHub**  
-
+- Ainda em aprendizado, porém, caso queiram me chamar para
+– colaborar em algum projeto que tenha, em sua essência,
+– C# como linguagem, estou sempre aberto ao aprendizado. 🙂
 
 ---
 
@@ -32,6 +29,7 @@
 - **Exercícios de Algoritmos**  
   Resolvendo desafios de lógica de programação e POO, aplicando conceitos de C# e .NET em projetos práticos.  
   🔗 [Acessar repositório](https://github.com/Savagge999/Desafio_100_Exercicios_Algoritmos)
+  obs: (Projeto pausado no momento para estudos... Logo mais dou continuidade :))
 
 ---
 
@@ -61,6 +59,8 @@
   <a href="andersonsergio501@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://judge.beecrowd.com/profile/1184808" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BeeCrowd&logo=beecrowd&label=&color=5A2D82&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="beecrowd logo"/>
 </div>
 
 ###
