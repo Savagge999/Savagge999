@@ -1,33 +1,65 @@
-# Opa! E aí, tudo bem? Me chamo Anderson.
+# Opa! Tudo bem? Me chamo Anderson
 
-## Seja bem-vindo ao meu perfil!
+Sou estudante de desenvolvimento de software com foco em **.NET** e **desenvolvimento back-end**.
 
-Atualmente estou estudando programação com foco no ecossistema **.NET** e já faz um ano que estou nessa caminhada.
-Comecei pela lógica de programação e depois segui para C# Completo, do básico ao avançado.
-Agora estou avançando meus estudos para **ASP.NET Core** e **SQL Server**, além dos estudos de Git, GitHub e também Inglês (sim, eu preciso urgentemente!).
+Iniciei minha jornada na programação no início de **2025**, estudando **lógica de programação utilizando C#**. Em seguida, aprofundei meus conhecimentos na própria linguagem, estudando **C# do básico ao avançado** por meio de cursos e prática constante.
 
-Para ser honesto, às vezes eu demoro para atualizar meu perfil porque sinto que não tenho nada de tão importante assim pra mostrar, apesar da internet inteira falar que "sim, você deve postar!"...
-Por isso, você pode não ver tantos commits diários aqui, mas continuo estudando todos os dias com foco e disciplina.
+Durante esse processo desenvolvi fundamentos importantes como **Programação Orientada a Objetos**, **organização de código** e desenvolvimento de **projetos práticos**.
 
----
-
-### 🛠️ O que estou estudando e praticando
-* **C# e .NET:** Foco em POO e projetos práticos.
-* **Back-End:** Iniciando em ASP.NET Core e Bancos de Dados.
+Atualmente estou avançando meus estudos em **ASP.NET Core**, com foco na criação de **APIs**, **Web APIs**, **aplicações web com padrão MVC** e outros tipos de aplicações dentro do ecossistema **.NET**.
 
 ---
 
-### 🌐 Onde me encontrar
-Se quiser trocar uma ideia sobre trabalho ou apenas fazer networking:
+## Foco de estudo
+
+- Desenvolvimento de **APIs com ASP.NET Core**
+- Estruturação de aplicações **back-end**
+- **SQL Server** e modelagem de dados
+- Boas práticas em **C# e .NET**
+- Controle de versão com **Git e GitHub**
+- Aprimoramento do **inglês técnico**
+
+---
+
+## Tecnologias
+
+**Linguagens e Frameworks**
+
+- C#
+- .NET
+- ASP.NET Core
+
+**Banco de Dados**
+
+- SQL Server
+- SQL
+
+**Ferramentas**
+
+- Git
+- GitHub
+- Visual Studio
+
+---
+
+## Prática de programação
+
+Também utilizo plataformas de desafios para praticar **lógica de programação** e **resolução de problemas**.
+
+BeeCrowd  
+https://judge.beecrowd.com/profile/1184808
+
+---
+
+## Contato
+
+Se quiser conversar sobre tecnologia, projetos ou oportunidades:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anderson-sergio-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <a href="mailto:andersonsergio501@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://judge.beecrowd.com/profile/1184808" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BeeCrowd&logo=beecrowd&color=5A2D82&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
