@@ -1,10 +1,10 @@
 # Opa! Tudo bem? Me chamo Anderson
 
-Sou estudante de desenvolvimento de software com foco em **.NET** e **desenvolvimento back-end**.
+Sou estudante de programação com foco em **.NET** e **desenvolvimento back-end**.
 
 Iniciei minha jornada na programação no início de **2025**, estudando **lógica de programação utilizando C#**. Em seguida, aprofundei meus conhecimentos na própria linguagem, estudando **C# do básico ao avançado** por meio de cursos e prática constante.
 
-Durante esse processo desenvolvi fundamentos importantes como **Programação Orientada a Objetos**, **organização de código** e desenvolvimento de **projetos práticos**.
+Durante esse processo aprendi fundamentos importantes como **Programação Orientada a Objetos**, **organização de código** e desenvolvimento de **projetos práticos**.
 
 Atualmente estou avançando meus estudos em **ASP.NET Core**, com foco na criação de **APIs**, **Web APIs**, **aplicações web com padrão MVC** e outros tipos de aplicações dentro do ecossistema **.NET**.
 
@@ -26,19 +26,25 @@ Atualmente estou avançando meus estudos em **ASP.NET Core**, com foco na criaç
 **Linguagens e Frameworks**
 
 - C#
-- .NET
 - ASP.NET Core
+- .NET Maui
+- Blazor
 
 **Banco de Dados**
 
-- SQL Server
-- SQL
+- SQLServer
+- MySQL
+- PostgreSQL
 
 **Ferramentas**
 
 - Git
 - GitHub
 - Visual Studio
+- VS Code
+- Postman
+- Docker
+- Seq
 
 ---
 
@@ -53,7 +59,7 @@ https://judge.beecrowd.com/profile/1184808
 
 ## Contato
 
-Se quiser conversar sobre tecnologia, projetos ou oportunidades:
+Se quiser me chamar para conversar sobre tecnologias, projetos ou oportunidades:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/anderson-sergio-dev/" target="_blank">
